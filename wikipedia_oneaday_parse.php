@@ -21,7 +21,7 @@ require_once(LIB_PATH."cache/cache_db.php");
 
 $requestUrls = array(
 	"ahko" => "http://mirror.enha.kr/random",
-	"ko" => "http://ko.wikipedia.org/wiki/특수기능:임의문서",
+	"ko" => "http://ko.wikipedia.org/wiki/특수:임의문서",
 	"ko2" => "http://uncyclopedia.kr/wiki/특수기능:임의문서",
 	"en" => "http://en.wikipedia.org/wiki/Special:Random"
 );
